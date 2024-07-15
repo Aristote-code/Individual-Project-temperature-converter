@@ -1,0 +1,1 @@
+ /Users/apple/Desktop/My\ ALU/Individual-Project-temperature-converter/.dart_tool/flutter_build/723b8165bd0778ebd6fdfc1b6005d231/native_assets.yaml: 
